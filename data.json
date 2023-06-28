@@ -1,0 +1,3350 @@
+[
+    {
+        "filename": "acacia_log.png",
+        "r": 103,
+        "g": 96,
+        "b": 86
+    },
+    {
+        "filename": "acacia_log_top.png",
+        "r": 150,
+        "g": 88,
+        "b": 55
+    },
+    {
+        "filename": "acacia_planks.png",
+        "r": 168,
+        "g": 90,
+        "b": 50
+    },
+    {
+        "filename": "amethyst_block.png",
+        "r": 133,
+        "g": 97,
+        "b": 191
+    },
+    {
+        "filename": "ancient_debris_side.png",
+        "r": 95,
+        "g": 63,
+        "b": 55
+    },
+    {
+        "filename": "ancient_debris_top.png",
+        "r": 94,
+        "g": 66,
+        "b": 58
+    },
+    {
+        "filename": "andesite.png",
+        "r": 136,
+        "g": 136,
+        "b": 136
+    },
+    {
+        "filename": "anvil.png",
+        "r": 68,
+        "g": 68,
+        "b": 68
+    },
+    {
+        "filename": "azalea_top.png",
+        "r": 101,
+        "g": 124,
+        "b": 47
+    },
+    {
+        "filename": "bamboo_block.png",
+        "r": 127,
+        "g": 144,
+        "b": 57
+    },
+    {
+        "filename": "bamboo_block_top.png",
+        "r": 139,
+        "g": 141,
+        "b": 62
+    },
+    {
+        "filename": "bamboo_door_bottom.png",
+        "r": 199,
+        "g": 178,
+        "b": 84
+    },
+    {
+        "filename": "bamboo_fence_gate_particle.png",
+        "r": 206,
+        "g": 185,
+        "b": 84
+    },
+    {
+        "filename": "bamboo_fence_particle.png",
+        "r": 206,
+        "g": 185,
+        "b": 84
+    },
+    {
+        "filename": "bamboo_mosaic.png",
+        "r": 190,
+        "g": 170,
+        "b": 78
+    },
+    {
+        "filename": "bamboo_planks.png",
+        "r": 193,
+        "g": 173,
+        "b": 80
+    },
+    {
+        "filename": "bamboo_stalk.png",
+        "r": 93,
+        "g": 144,
+        "b": 19
+    },
+    {
+        "filename": "barrel_bottom.png",
+        "r": 115,
+        "g": 85,
+        "b": 48
+    },
+    {
+        "filename": "barrel_side.png",
+        "r": 107,
+        "g": 81,
+        "b": 50
+    },
+    {
+        "filename": "barrel_top.png",
+        "r": 134,
+        "g": 100,
+        "b": 58
+    },
+    {
+        "filename": "barrel_top_open.png",
+        "r": 92,
+        "g": 67,
+        "b": 34
+    },
+    {
+        "filename": "basalt_side.png",
+        "r": 73,
+        "g": 72,
+        "b": 77
+    },
+    {
+        "filename": "basalt_top.png",
+        "r": 80,
+        "g": 81,
+        "b": 86
+    },
+    {
+        "filename": "beacon.png",
+        "r": 117,
+        "g": 220,
+        "b": 215
+    },
+    {
+        "filename": "bedrock.png",
+        "r": 85,
+        "g": 85,
+        "b": 85
+    },
+    {
+        "filename": "beehive_end.png",
+        "r": 180,
+        "g": 146,
+        "b": 90
+    },
+    {
+        "filename": "beehive_front.png",
+        "r": 159,
+        "g": 128,
+        "b": 77
+    },
+    {
+        "filename": "beehive_front_honey.png",
+        "r": 167,
+        "g": 131,
+        "b": 74
+    },
+    {
+        "filename": "beehive_side.png",
+        "r": 157,
+        "g": 126,
+        "b": 75
+    },
+    {
+        "filename": "bee_nest_bottom.png",
+        "r": 160,
+        "g": 127,
+        "b": 87
+    },
+    {
+        "filename": "bee_nest_front.png",
+        "r": 183,
+        "g": 141,
+        "b": 76
+    },
+    {
+        "filename": "bee_nest_front_honey.png",
+        "r": 194,
+        "g": 151,
+        "b": 75
+    },
+    {
+        "filename": "bee_nest_side.png",
+        "r": 196,
+        "g": 150,
+        "b": 77
+    },
+    {
+        "filename": "bee_nest_top.png",
+        "r": 202,
+        "g": 160,
+        "b": 74
+    },
+    {
+        "filename": "birch_door_bottom.png",
+        "r": 208,
+        "g": 194,
+        "b": 144
+    },
+    {
+        "filename": "birch_door_top.png",
+        "r": 220,
+        "g": 209,
+        "b": 176
+    },
+    {
+        "filename": "birch_log.png",
+        "r": 216,
+        "g": 215,
+        "b": 210
+    },
+    {
+        "filename": "birch_log_top.png",
+        "r": 193,
+        "g": 179,
+        "b": 135
+    },
+    {
+        "filename": "birch_planks.png",
+        "r": 192,
+        "g": 175,
+        "b": 121
+    },
+    {
+        "filename": "birch_trapdoor.png",
+        "r": 207,
+        "g": 194,
+        "b": 157
+    },
+    {
+        "filename": "blackstone.png",
+        "r": 42,
+        "g": 35,
+        "b": 40
+    },
+    {
+        "filename": "blackstone_top.png",
+        "r": 42,
+        "g": 36,
+        "b": 41
+    },
+    {
+        "filename": "black_concrete.png",
+        "r": 8,
+        "g": 10,
+        "b": 15
+    },
+    {
+        "filename": "black_concrete_powder.png",
+        "r": 25,
+        "g": 26,
+        "b": 31
+    },
+    {
+        "filename": "black_glazed_terracotta.png",
+        "r": 67,
+        "g": 30,
+        "b": 32
+    },
+    {
+        "filename": "black_shulker_box.png",
+        "r": 25,
+        "g": 25,
+        "b": 29
+    },
+    {
+        "filename": "black_stained_glass.png",
+        "r": 25,
+        "g": 25,
+        "b": 25
+    },
+    {
+        "filename": "black_terracotta.png",
+        "r": 37,
+        "g": 22,
+        "b": 16
+    },
+    {
+        "filename": "black_wool.png",
+        "r": 20,
+        "g": 21,
+        "b": 25
+    },
+    {
+        "filename": "blast_furnace_front.png",
+        "r": 107,
+        "g": 107,
+        "b": 107
+    },
+    {
+        "filename": "blast_furnace_front_on.png",
+        "r": 115,
+        "g": 110,
+        "b": 105
+    },
+    {
+        "filename": "blast_furnace_side.png",
+        "r": 107,
+        "g": 107,
+        "b": 107
+    },
+    {
+        "filename": "blast_furnace_top.png",
+        "r": 80,
+        "g": 80,
+        "b": 81
+    },
+    {
+        "filename": "blue_concrete.png",
+        "r": 44,
+        "g": 46,
+        "b": 143
+    },
+    {
+        "filename": "blue_concrete_powder.png",
+        "r": 70,
+        "g": 73,
+        "b": 166
+    },
+    {
+        "filename": "blue_glazed_terracotta.png",
+        "r": 47,
+        "g": 64,
+        "b": 139
+    },
+    {
+        "filename": "blue_ice.png",
+        "r": 116,
+        "g": 167,
+        "b": 253
+    },
+    {
+        "filename": "blue_shulker_box.png",
+        "r": 43,
+        "g": 45,
+        "b": 140
+    },
+    {
+        "filename": "blue_terracotta.png",
+        "r": 74,
+        "g": 59,
+        "b": 91
+    },
+    {
+        "filename": "blue_wool.png",
+        "r": 53,
+        "g": 57,
+        "b": 157
+    },
+    {
+        "filename": "bone_block_side.png",
+        "r": 229,
+        "g": 225,
+        "b": 207
+    },
+    {
+        "filename": "bone_block_top.png",
+        "r": 209,
+        "g": 206,
+        "b": 179
+    },
+    {
+        "filename": "bookshelf.png",
+        "r": 117,
+        "g": 94,
+        "b": 59
+    },
+    {
+        "filename": "brain_coral_block.png",
+        "r": 207,
+        "g": 91,
+        "b": 159
+    },
+    {
+        "filename": "brewing_stand_base.png",
+        "r": 116,
+        "g": 105,
+        "b": 105
+    },
+    {
+        "filename": "bricks.png",
+        "r": 150,
+        "g": 97,
+        "b": 83
+    },
+    {
+        "filename": "brown_concrete.png",
+        "r": 96,
+        "g": 59,
+        "b": 31
+    },
+    {
+        "filename": "brown_concrete_powder.png",
+        "r": 125,
+        "g": 84,
+        "b": 53
+    },
+    {
+        "filename": "brown_glazed_terracotta.png",
+        "r": 119,
+        "g": 106,
+        "b": 85
+    },
+    {
+        "filename": "brown_mushroom_block.png",
+        "r": 149,
+        "g": 111,
+        "b": 81
+    },
+    {
+        "filename": "brown_shulker_box.png",
+        "r": 106,
+        "g": 66,
+        "b": 35
+    },
+    {
+        "filename": "brown_stained_glass.png",
+        "r": 102,
+        "g": 76,
+        "b": 51
+    },
+    {
+        "filename": "brown_terracotta.png",
+        "r": 77,
+        "g": 51,
+        "b": 35
+    },
+    {
+        "filename": "brown_wool.png",
+        "r": 114,
+        "g": 71,
+        "b": 40
+    },
+    {
+        "filename": "bubble_coral_block.png",
+        "r": 165,
+        "g": 26,
+        "b": 162
+    },
+    {
+        "filename": "budding_amethyst.png",
+        "r": 132,
+        "g": 96,
+        "b": 186
+    },
+    {
+        "filename": "calcite.png",
+        "r": 223,
+        "g": 224,
+        "b": 220
+    },
+    {
+        "filename": "calibrated_sculk_sensor_top.png",
+        "r": 27,
+        "g": 79,
+        "b": 100
+    },
+    {
+        "filename": "cartography_table_side1.png",
+        "r": 70,
+        "g": 50,
+        "b": 34
+    },
+    {
+        "filename": "cartography_table_side2.png",
+        "r": 81,
+        "g": 61,
+        "b": 42
+    },
+    {
+        "filename": "cartography_table_side3.png",
+        "r": 67,
+        "g": 43,
+        "b": 20
+    },
+    {
+        "filename": "cartography_table_top.png",
+        "r": 103,
+        "g": 87,
+        "b": 67
+    },
+    {
+        "filename": "carved_pumpkin.png",
+        "r": 150,
+        "g": 84,
+        "b": 17
+    },
+    {
+        "filename": "cauldron_inner.png",
+        "r": 49,
+        "g": 49,
+        "b": 53
+    },
+    {
+        "filename": "cauldron_side.png",
+        "r": 74,
+        "g": 73,
+        "b": 74
+    },
+    {
+        "filename": "chain_command_block_back.png",
+        "r": 130,
+        "g": 157,
+        "b": 145
+    },
+    {
+        "filename": "chain_command_block_conditional.png",
+        "r": 129,
+        "g": 161,
+        "b": 147
+    },
+    {
+        "filename": "chain_command_block_front.png",
+        "r": 132,
+        "g": 165,
+        "b": 150
+    },
+    {
+        "filename": "chain_command_block_side.png",
+        "r": 131,
+        "g": 161,
+        "b": 147
+    },
+    {
+        "filename": "cherry_log.png",
+        "r": 54,
+        "g": 33,
+        "b": 44
+    },
+    {
+        "filename": "cherry_log_top.png",
+        "r": 185,
+        "g": 141,
+        "b": 137
+    },
+    {
+        "filename": "cherry_planks.png",
+        "r": 226,
+        "g": 178,
+        "b": 172
+    },
+    {
+        "filename": "chiseled_bookshelf_empty.png",
+        "r": 90,
+        "g": 70,
+        "b": 41
+    },
+    {
+        "filename": "chiseled_bookshelf_occupied.png",
+        "r": 121,
+        "g": 94,
+        "b": 69
+    },
+    {
+        "filename": "chiseled_bookshelf_side.png",
+        "r": 175,
+        "g": 141,
+        "b": 86
+    },
+    {
+        "filename": "chiseled_bookshelf_top.png",
+        "r": 178,
+        "g": 144,
+        "b": 88
+    },
+    {
+        "filename": "chiseled_deepslate.png",
+        "r": 54,
+        "g": 54,
+        "b": 54
+    },
+    {
+        "filename": "chiseled_nether_bricks.png",
+        "r": 47,
+        "g": 23,
+        "b": 28
+    },
+    {
+        "filename": "chiseled_polished_blackstone.png",
+        "r": 53,
+        "g": 48,
+        "b": 56
+    },
+    {
+        "filename": "chiseled_quartz_block.png",
+        "r": 231,
+        "g": 226,
+        "b": 218
+    },
+    {
+        "filename": "chiseled_quartz_block_top.png",
+        "r": 231,
+        "g": 226,
+        "b": 217
+    },
+    {
+        "filename": "chiseled_red_sandstone.png",
+        "r": 183,
+        "g": 96,
+        "b": 27
+    },
+    {
+        "filename": "chiseled_sandstone.png",
+        "r": 216,
+        "g": 202,
+        "b": 155
+    },
+    {
+        "filename": "chiseled_stone_bricks.png",
+        "r": 119,
+        "g": 118,
+        "b": 119
+    },
+    {
+        "filename": "chorus_flower.png",
+        "r": 151,
+        "g": 120,
+        "b": 151
+    },
+    {
+        "filename": "chorus_flower_dead.png",
+        "r": 96,
+        "g": 61,
+        "b": 94
+    },
+    {
+        "filename": "chorus_plant.png",
+        "r": 93,
+        "g": 57,
+        "b": 93
+    },
+    {
+        "filename": "clay.png",
+        "r": 160,
+        "g": 166,
+        "b": 179
+    },
+    {
+        "filename": "coal_block.png",
+        "r": 16,
+        "g": 15,
+        "b": 15
+    },
+    {
+        "filename": "coal_ore.png",
+        "r": 105,
+        "g": 105,
+        "b": 105
+    },
+    {
+        "filename": "coarse_dirt.png",
+        "r": 119,
+        "g": 85,
+        "b": 59
+    },
+    {
+        "filename": "cobbled_deepslate.png",
+        "r": 77,
+        "g": 77,
+        "b": 80
+    },
+    {
+        "filename": "cobblestone.png",
+        "r": 127,
+        "g": 127,
+        "b": 127
+    },
+    {
+        "filename": "command_block_back.png",
+        "r": 173,
+        "g": 131,
+        "b": 106
+    },
+    {
+        "filename": "command_block_conditional.png",
+        "r": 178,
+        "g": 133,
+        "b": 105
+    },
+    {
+        "filename": "command_block_front.png",
+        "r": 181,
+        "g": 136,
+        "b": 108
+    },
+    {
+        "filename": "command_block_side.png",
+        "r": 177,
+        "g": 133,
+        "b": 107
+    },
+    {
+        "filename": "comparator.png",
+        "r": 166,
+        "g": 161,
+        "b": 159
+    },
+    {
+        "filename": "comparator_on.png",
+        "r": 175,
+        "g": 160,
+        "b": 157
+    },
+    {
+        "filename": "composter_bottom.png",
+        "r": 116,
+        "g": 71,
+        "b": 32
+    },
+    {
+        "filename": "composter_side.png",
+        "r": 112,
+        "g": 70,
+        "b": 31
+    },
+    {
+        "filename": "copper_block.png",
+        "r": 192,
+        "g": 107,
+        "b": 79
+    },
+    {
+        "filename": "copper_ore.png",
+        "r": 124,
+        "g": 125,
+        "b": 120
+    },
+    {
+        "filename": "cracked_deepslate_bricks.png",
+        "r": 64,
+        "g": 64,
+        "b": 65
+    },
+    {
+        "filename": "cracked_deepslate_tiles.png",
+        "r": 52,
+        "g": 52,
+        "b": 52
+    },
+    {
+        "filename": "cracked_nether_bricks.png",
+        "r": 40,
+        "g": 20,
+        "b": 23
+    },
+    {
+        "filename": "cracked_polished_blackstone_bricks.png",
+        "r": 44,
+        "g": 37,
+        "b": 43
+    },
+    {
+        "filename": "cracked_stone_bricks.png",
+        "r": 118,
+        "g": 117,
+        "b": 118
+    },
+    {
+        "filename": "crafting_table_front.png",
+        "r": 129,
+        "g": 105,
+        "b": 70
+    },
+    {
+        "filename": "crafting_table_side.png",
+        "r": 128,
+        "g": 102,
+        "b": 63
+    },
+    {
+        "filename": "crafting_table_top.png",
+        "r": 119,
+        "g": 73,
+        "b": 42
+    },
+    {
+        "filename": "crimson_door_bottom.png",
+        "r": 115,
+        "g": 55,
+        "b": 79
+    },
+    {
+        "filename": "crimson_door_top.png",
+        "r": 114,
+        "g": 54,
+        "b": 79
+    },
+    {
+        "filename": "crimson_nylium.png",
+        "r": 130,
+        "g": 31,
+        "b": 31
+    },
+    {
+        "filename": "crimson_nylium_side.png",
+        "r": 107,
+        "g": 26,
+        "b": 26
+    },
+    {
+        "filename": "crimson_planks.png",
+        "r": 101,
+        "g": 48,
+        "b": 70
+    },
+    {
+        "filename": "crimson_stem.png",
+        "r": 92,
+        "g": 25,
+        "b": 29
+    },
+    {
+        "filename": "crimson_stem_top.png",
+        "r": 112,
+        "g": 49,
+        "b": 70
+    },
+    {
+        "filename": "crying_obsidian.png",
+        "r": 32,
+        "g": 10,
+        "b": 60
+    },
+    {
+        "filename": "cut_copper.png",
+        "r": 191,
+        "g": 106,
+        "b": 80
+    },
+    {
+        "filename": "cut_red_sandstone.png",
+        "r": 189,
+        "g": 101,
+        "b": 31
+    },
+    {
+        "filename": "cut_sandstone.png",
+        "r": 217,
+        "g": 206,
+        "b": 159
+    },
+    {
+        "filename": "cyan_concrete.png",
+        "r": 21,
+        "g": 119,
+        "b": 136
+    },
+    {
+        "filename": "cyan_concrete_powder.png",
+        "r": 36,
+        "g": 147,
+        "b": 157
+    },
+    {
+        "filename": "cyan_glazed_terracotta.png",
+        "r": 52,
+        "g": 118,
+        "b": 125
+    },
+    {
+        "filename": "cyan_shulker_box.png",
+        "r": 20,
+        "g": 121,
+        "b": 135
+    },
+    {
+        "filename": "cyan_stained_glass.png",
+        "r": 76,
+        "g": 127,
+        "b": 153
+    },
+    {
+        "filename": "cyan_terracotta.png",
+        "r": 86,
+        "g": 91,
+        "b": 91
+    },
+    {
+        "filename": "cyan_wool.png",
+        "r": 21,
+        "g": 137,
+        "b": 145
+    },
+    {
+        "filename": "dark_oak_door_bottom.png",
+        "r": 73,
+        "g": 49,
+        "b": 23
+    },
+    {
+        "filename": "dark_oak_door_top.png",
+        "r": 76,
+        "g": 51,
+        "b": 25
+    },
+    {
+        "filename": "dark_oak_log.png",
+        "r": 60,
+        "g": 46,
+        "b": 26
+    },
+    {
+        "filename": "dark_oak_log_top.png",
+        "r": 67,
+        "g": 45,
+        "b": 22
+    },
+    {
+        "filename": "dark_oak_planks.png",
+        "r": 66,
+        "g": 43,
+        "b": 20
+    },
+    {
+        "filename": "dark_oak_trapdoor.png",
+        "r": 75,
+        "g": 49,
+        "b": 23
+    },
+    {
+        "filename": "dark_prismarine.png",
+        "r": 51,
+        "g": 91,
+        "b": 75
+    },
+    {
+        "filename": "daylight_detector_inverted_top.png",
+        "r": 106,
+        "g": 109,
+        "b": 112
+    },
+    {
+        "filename": "daylight_detector_side.png",
+        "r": 66,
+        "g": 55,
+        "b": 35
+    },
+    {
+        "filename": "daylight_detector_top.png",
+        "r": 130,
+        "g": 116,
+        "b": 94
+    },
+    {
+        "filename": "dead_brain_coral_block.png",
+        "r": 124,
+        "g": 117,
+        "b": 114
+    },
+    {
+        "filename": "dead_bubble_coral_block.png",
+        "r": 131,
+        "g": 123,
+        "b": 119
+    },
+    {
+        "filename": "dead_fire_coral_block.png",
+        "r": 131,
+        "g": 123,
+        "b": 119
+    },
+    {
+        "filename": "dead_horn_coral_block.png",
+        "r": 133,
+        "g": 126,
+        "b": 122
+    },
+    {
+        "filename": "dead_tube_coral_block.png",
+        "r": 130,
+        "g": 123,
+        "b": 119
+    },
+    {
+        "filename": "debug.png",
+        "r": 133,
+        "g": 148,
+        "b": 152
+    },
+    {
+        "filename": "debug2.png",
+        "r": 123,
+        "g": 119,
+        "b": 117
+    },
+    {
+        "filename": "deepslate.png",
+        "r": 80,
+        "g": 80,
+        "b": 82
+    },
+    {
+        "filename": "deepslate_bricks.png",
+        "r": 70,
+        "g": 70,
+        "b": 71
+    },
+    {
+        "filename": "deepslate_coal_ore.png",
+        "r": 74,
+        "g": 74,
+        "b": 76
+    },
+    {
+        "filename": "deepslate_copper_ore.png",
+        "r": 92,
+        "g": 93,
+        "b": 89
+    },
+    {
+        "filename": "deepslate_diamond_ore.png",
+        "r": 83,
+        "g": 106,
+        "b": 106
+    },
+    {
+        "filename": "deepslate_emerald_ore.png",
+        "r": 78,
+        "g": 104,
+        "b": 87
+    },
+    {
+        "filename": "deepslate_gold_ore.png",
+        "r": 115,
+        "g": 102,
+        "b": 78
+    },
+    {
+        "filename": "deepslate_iron_ore.png",
+        "r": 106,
+        "g": 99,
+        "b": 94
+    },
+    {
+        "filename": "deepslate_lapis_ore.png",
+        "r": 79,
+        "g": 90,
+        "b": 115
+    },
+    {
+        "filename": "deepslate_redstone_ore.png",
+        "r": 104,
+        "g": 73,
+        "b": 74
+    },
+    {
+        "filename": "deepslate_tiles.png",
+        "r": 54,
+        "g": 54,
+        "b": 55
+    },
+    {
+        "filename": "deepslate_top.png",
+        "r": 87,
+        "g": 87,
+        "b": 89
+    },
+    {
+        "filename": "destroy_stage_0.png",
+        "r": 252,
+        "g": 252,
+        "b": 252
+    },
+    {
+        "filename": "destroy_stage_1.png",
+        "r": 248,
+        "g": 248,
+        "b": 248
+    },
+    {
+        "filename": "destroy_stage_2.png",
+        "r": 243,
+        "g": 243,
+        "b": 243
+    },
+    {
+        "filename": "destroy_stage_3.png",
+        "r": 238,
+        "g": 238,
+        "b": 238
+    },
+    {
+        "filename": "destroy_stage_4.png",
+        "r": 230,
+        "g": 230,
+        "b": 230
+    },
+    {
+        "filename": "destroy_stage_5.png",
+        "r": 222,
+        "g": 222,
+        "b": 222
+    },
+    {
+        "filename": "destroy_stage_6.png",
+        "r": 212,
+        "g": 212,
+        "b": 212
+    },
+    {
+        "filename": "destroy_stage_7.png",
+        "r": 195,
+        "g": 195,
+        "b": 195
+    },
+    {
+        "filename": "destroy_stage_8.png",
+        "r": 177,
+        "g": 177,
+        "b": 177
+    },
+    {
+        "filename": "destroy_stage_9.png",
+        "r": 167,
+        "g": 167,
+        "b": 167
+    },
+    {
+        "filename": "diamond_block.png",
+        "r": 98,
+        "g": 237,
+        "b": 228
+    },
+    {
+        "filename": "diamond_ore.png",
+        "r": 121,
+        "g": 141,
+        "b": 140
+    },
+    {
+        "filename": "diorite.png",
+        "r": 188,
+        "g": 188,
+        "b": 188
+    },
+    {
+        "filename": "dirt.png",
+        "r": 134,
+        "g": 96,
+        "b": 67
+    },
+    {
+        "filename": "dirt_path_top.png",
+        "r": 148,
+        "g": 121,
+        "b": 65
+    },
+    {
+        "filename": "dispenser_front_vertical.png",
+        "r": 98,
+        "g": 97,
+        "b": 97
+    },
+    {
+        "filename": "dragon_egg.png",
+        "r": 12,
+        "g": 9,
+        "b": 15
+    },
+    {
+        "filename": "dried_kelp_bottom.png",
+        "r": 50,
+        "g": 58,
+        "b": 38
+    },
+    {
+        "filename": "dried_kelp_side.png",
+        "r": 38,
+        "g": 48,
+        "b": 29
+    },
+    {
+        "filename": "dried_kelp_top.png",
+        "r": 50,
+        "g": 58,
+        "b": 38
+    },
+    {
+        "filename": "dripstone_block.png",
+        "r": 134,
+        "g": 107,
+        "b": 92
+    },
+    {
+        "filename": "dropper_front.png",
+        "r": 122,
+        "g": 121,
+        "b": 121
+    },
+    {
+        "filename": "dropper_front_vertical.png",
+        "r": 97,
+        "g": 96,
+        "b": 96
+    },
+    {
+        "filename": "emerald_block.png",
+        "r": 42,
+        "g": 203,
+        "b": 87
+    },
+    {
+        "filename": "emerald_ore.png",
+        "r": 108,
+        "g": 136,
+        "b": 115
+    },
+    {
+        "filename": "enchanting_table_bottom.png",
+        "r": 15,
+        "g": 10,
+        "b": 24
+    },
+    {
+        "filename": "enchanting_table_top.png",
+        "r": 128,
+        "g": 75,
+        "b": 85
+    },
+    {
+        "filename": "end_portal_frame_top.png",
+        "r": 91,
+        "g": 120,
+        "b": 97
+    },
+    {
+        "filename": "end_stone.png",
+        "r": 219,
+        "g": 222,
+        "b": 158
+    },
+    {
+        "filename": "end_stone_bricks.png",
+        "r": 218,
+        "g": 224,
+        "b": 162
+    },
+    {
+        "filename": "exposed_copper.png",
+        "r": 161,
+        "g": 125,
+        "b": 103
+    },
+    {
+        "filename": "exposed_cut_copper.png",
+        "r": 154,
+        "g": 121,
+        "b": 101
+    },
+    {
+        "filename": "farmland.png",
+        "r": 143,
+        "g": 102,
+        "b": 70
+    },
+    {
+        "filename": "farmland_moist.png",
+        "r": 81,
+        "g": 44,
+        "b": 15
+    },
+    {
+        "filename": "fire_coral_block.png",
+        "r": 163,
+        "g": 35,
+        "b": 46
+    },
+    {
+        "filename": "fletching_table_front.png",
+        "r": 173,
+        "g": 155,
+        "b": 111
+    },
+    {
+        "filename": "fletching_table_side.png",
+        "r": 191,
+        "g": 167,
+        "b": 129
+    },
+    {
+        "filename": "fletching_table_top.png",
+        "r": 197,
+        "g": 180,
+        "b": 133
+    },
+    {
+        "filename": "flowering_azalea_top.png",
+        "r": 112,
+        "g": 121,
+        "b": 64
+    },
+    {
+        "filename": "frosted_ice_0.png",
+        "r": 140,
+        "g": 181,
+        "b": 252
+    },
+    {
+        "filename": "frosted_ice_1.png",
+        "r": 139,
+        "g": 180,
+        "b": 252
+    },
+    {
+        "filename": "frosted_ice_2.png",
+        "r": 138,
+        "g": 179,
+        "b": 252
+    },
+    {
+        "filename": "frosted_ice_3.png",
+        "r": 135,
+        "g": 178,
+        "b": 252
+    },
+    {
+        "filename": "furnace_front.png",
+        "r": 91,
+        "g": 91,
+        "b": 91
+    },
+    {
+        "filename": "furnace_front_on.png",
+        "r": 121,
+        "g": 112,
+        "b": 93
+    },
+    {
+        "filename": "furnace_side.png",
+        "r": 120,
+        "g": 120,
+        "b": 120
+    },
+    {
+        "filename": "furnace_top.png",
+        "r": 110,
+        "g": 109,
+        "b": 109
+    },
+    {
+        "filename": "gilded_blackstone.png",
+        "r": 55,
+        "g": 42,
+        "b": 38
+    },
+    {
+        "filename": "glowstone.png",
+        "r": 171,
+        "g": 131,
+        "b": 84
+    },
+    {
+        "filename": "glow_item_frame.png",
+        "r": 148,
+        "g": 103,
+        "b": 64
+    },
+    {
+        "filename": "gold_block.png",
+        "r": 246,
+        "g": 208,
+        "b": 61
+    },
+    {
+        "filename": "gold_ore.png",
+        "r": 145,
+        "g": 133,
+        "b": 106
+    },
+    {
+        "filename": "granite.png",
+        "r": 149,
+        "g": 103,
+        "b": 85
+    },
+    {
+        "filename": "grass_block_side.png",
+        "r": 126,
+        "g": 107,
+        "b": 65
+    },
+    {
+        "filename": "grass_block_snow.png",
+        "r": 169,
+        "g": 151,
+        "b": 133
+    },
+    {
+        "filename": "grass_block_top.png",
+        "r": 147,
+        "g": 147,
+        "b": 147
+    },
+    {
+        "filename": "gravel.png",
+        "r": 131,
+        "g": 127,
+        "b": 126
+    },
+    {
+        "filename": "gray_concrete.png",
+        "r": 54,
+        "g": 57,
+        "b": 61
+    },
+    {
+        "filename": "gray_concrete_powder.png",
+        "r": 76,
+        "g": 81,
+        "b": 84
+    },
+    {
+        "filename": "gray_glazed_terracotta.png",
+        "r": 83,
+        "g": 90,
+        "b": 93
+    },
+    {
+        "filename": "gray_shulker_box.png",
+        "r": 55,
+        "g": 58,
+        "b": 62
+    },
+    {
+        "filename": "gray_stained_glass.png",
+        "r": 76,
+        "g": 76,
+        "b": 76
+    },
+    {
+        "filename": "gray_terracotta.png",
+        "r": 57,
+        "g": 42,
+        "b": 35
+    },
+    {
+        "filename": "gray_wool.png",
+        "r": 62,
+        "g": 68,
+        "b": 71
+    },
+    {
+        "filename": "green_concrete.png",
+        "r": 73,
+        "g": 91,
+        "b": 36
+    },
+    {
+        "filename": "green_concrete_powder.png",
+        "r": 97,
+        "g": 119,
+        "b": 44
+    },
+    {
+        "filename": "green_glazed_terracotta.png",
+        "r": 117,
+        "g": 142,
+        "b": 67
+    },
+    {
+        "filename": "green_shulker_box.png",
+        "r": 79,
+        "g": 100,
+        "b": 31
+    },
+    {
+        "filename": "green_stained_glass.png",
+        "r": 102,
+        "g": 127,
+        "b": 51
+    },
+    {
+        "filename": "green_terracotta.png",
+        "r": 76,
+        "g": 83,
+        "b": 42
+    },
+    {
+        "filename": "green_wool.png",
+        "r": 84,
+        "g": 109,
+        "b": 27
+    },
+    {
+        "filename": "hay_block_side.png",
+        "r": 166,
+        "g": 136,
+        "b": 38
+    },
+    {
+        "filename": "hay_block_top.png",
+        "r": 165,
+        "g": 139,
+        "b": 12
+    },
+    {
+        "filename": "honeycomb_block.png",
+        "r": 229,
+        "g": 148,
+        "b": 29
+    },
+    {
+        "filename": "honey_block_bottom.png",
+        "r": 241,
+        "g": 146,
+        "b": 17
+    },
+    {
+        "filename": "honey_block_side.png",
+        "r": 250,
+        "g": 188,
+        "b": 57
+    },
+    {
+        "filename": "honey_block_top.png",
+        "r": 251,
+        "g": 185,
+        "b": 52
+    },
+    {
+        "filename": "hopper_inside.png",
+        "r": 49,
+        "g": 49,
+        "b": 53
+    },
+    {
+        "filename": "hopper_outside.png",
+        "r": 66,
+        "g": 65,
+        "b": 68
+    },
+    {
+        "filename": "horn_coral_block.png",
+        "r": 216,
+        "g": 199,
+        "b": 66
+    },
+    {
+        "filename": "ice.png",
+        "r": 145,
+        "g": 183,
+        "b": 253
+    },
+    {
+        "filename": "iron_block.png",
+        "r": 220,
+        "g": 220,
+        "b": 220
+    },
+    {
+        "filename": "iron_door_bottom.png",
+        "r": 195,
+        "g": 194,
+        "b": 194
+    },
+    {
+        "filename": "iron_ore.png",
+        "r": 136,
+        "g": 129,
+        "b": 122
+    },
+    {
+        "filename": "item_frame.png",
+        "r": 116,
+        "g": 67,
+        "b": 42
+    },
+    {
+        "filename": "jack_o_lantern.png",
+        "r": 214,
+        "g": 152,
+        "b": 52
+    },
+    {
+        "filename": "jigsaw_bottom.png",
+        "r": 34,
+        "g": 27,
+        "b": 37
+    },
+    {
+        "filename": "jigsaw_lock.png",
+        "r": 45,
+        "g": 38,
+        "b": 47
+    },
+    {
+        "filename": "jigsaw_side.png",
+        "r": 62,
+        "g": 53,
+        "b": 63
+    },
+    {
+        "filename": "jigsaw_top.png",
+        "r": 80,
+        "g": 69,
+        "b": 81
+    },
+    {
+        "filename": "jukebox_top.png",
+        "r": 93,
+        "g": 64,
+        "b": 47
+    },
+    {
+        "filename": "jungle_door_bottom.png",
+        "r": 158,
+        "g": 113,
+        "b": 78
+    },
+    {
+        "filename": "jungle_log.png",
+        "r": 85,
+        "g": 67,
+        "b": 25
+    },
+    {
+        "filename": "jungle_log_top.png",
+        "r": 149,
+        "g": 109,
+        "b": 70
+    },
+    {
+        "filename": "jungle_planks.png",
+        "r": 160,
+        "g": 115,
+        "b": 80
+    },
+    {
+        "filename": "lapis_block.png",
+        "r": 30,
+        "g": 67,
+        "b": 140
+    },
+    {
+        "filename": "lapis_ore.png",
+        "r": 107,
+        "g": 117,
+        "b": 141
+    },
+    {
+        "filename": "lava_flow.png",
+        "r": 207,
+        "g": 91,
+        "b": 19
+    },
+    {
+        "filename": "lava_still.png",
+        "r": 212,
+        "g": 90,
+        "b": 18
+    },
+    {
+        "filename": "lectern_base.png",
+        "r": 162,
+        "g": 120,
+        "b": 74
+    },
+    {
+        "filename": "lectern_front.png",
+        "r": 129,
+        "g": 100,
+        "b": 55
+    },
+    {
+        "filename": "lectern_sides.png",
+        "r": 149,
+        "g": 117,
+        "b": 67
+    },
+    {
+        "filename": "lectern_top.png",
+        "r": 173,
+        "g": 137,
+        "b": 83
+    },
+    {
+        "filename": "lightning_rod_on.png",
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    {
+        "filename": "light_blue_concrete.png",
+        "r": 35,
+        "g": 137,
+        "b": 198
+    },
+    {
+        "filename": "light_blue_concrete_powder.png",
+        "r": 74,
+        "g": 180,
+        "b": 213
+    },
+    {
+        "filename": "light_blue_glazed_terracotta.png",
+        "r": 94,
+        "g": 164,
+        "b": 208
+    },
+    {
+        "filename": "light_blue_shulker_box.png",
+        "r": 49,
+        "g": 163,
+        "b": 212
+    },
+    {
+        "filename": "light_blue_stained_glass.png",
+        "r": 102,
+        "g": 153,
+        "b": 216
+    },
+    {
+        "filename": "light_blue_terracotta.png",
+        "r": 113,
+        "g": 108,
+        "b": 137
+    },
+    {
+        "filename": "light_blue_wool.png",
+        "r": 58,
+        "g": 175,
+        "b": 217
+    },
+    {
+        "filename": "light_gray_concrete.png",
+        "r": 125,
+        "g": 125,
+        "b": 115
+    },
+    {
+        "filename": "light_gray_concrete_powder.png",
+        "r": 154,
+        "g": 154,
+        "b": 148
+    },
+    {
+        "filename": "light_gray_glazed_terracotta.png",
+        "r": 144,
+        "g": 166,
+        "b": 167
+    },
+    {
+        "filename": "light_gray_shulker_box.png",
+        "r": 124,
+        "g": 124,
+        "b": 115
+    },
+    {
+        "filename": "light_gray_stained_glass.png",
+        "r": 153,
+        "g": 153,
+        "b": 153
+    },
+    {
+        "filename": "light_gray_terracotta.png",
+        "r": 135,
+        "g": 106,
+        "b": 97
+    },
+    {
+        "filename": "light_gray_wool.png",
+        "r": 142,
+        "g": 142,
+        "b": 134
+    },
+    {
+        "filename": "lime_concrete.png",
+        "r": 94,
+        "g": 168,
+        "b": 24
+    },
+    {
+        "filename": "lime_concrete_powder.png",
+        "r": 125,
+        "g": 189,
+        "b": 41
+    },
+    {
+        "filename": "lime_glazed_terracotta.png",
+        "r": 162,
+        "g": 197,
+        "b": 55
+    },
+    {
+        "filename": "lime_shulker_box.png",
+        "r": 99,
+        "g": 172,
+        "b": 23
+    },
+    {
+        "filename": "lime_stained_glass.png",
+        "r": 127,
+        "g": 204,
+        "b": 25
+    },
+    {
+        "filename": "lime_terracotta.png",
+        "r": 103,
+        "g": 117,
+        "b": 52
+    },
+    {
+        "filename": "lime_wool.png",
+        "r": 112,
+        "g": 185,
+        "b": 25
+    },
+    {
+        "filename": "lodestone_side.png",
+        "r": 119,
+        "g": 119,
+        "b": 123
+    },
+    {
+        "filename": "lodestone_top.png",
+        "r": 147,
+        "g": 149,
+        "b": 152
+    },
+    {
+        "filename": "loom_bottom.png",
+        "r": 76,
+        "g": 60,
+        "b": 36
+    },
+    {
+        "filename": "loom_front.png",
+        "r": 148,
+        "g": 118,
+        "b": 82
+    },
+    {
+        "filename": "loom_side.png",
+        "r": 145,
+        "g": 101,
+        "b": 72
+    },
+    {
+        "filename": "loom_top.png",
+        "r": 142,
+        "g": 119,
+        "b": 91
+    },
+    {
+        "filename": "magenta_concrete.png",
+        "r": 169,
+        "g": 48,
+        "b": 159
+    },
+    {
+        "filename": "magenta_concrete_powder.png",
+        "r": 192,
+        "g": 83,
+        "b": 184
+    },
+    {
+        "filename": "magenta_glazed_terracotta.png",
+        "r": 208,
+        "g": 100,
+        "b": 191
+    },
+    {
+        "filename": "magenta_shulker_box.png",
+        "r": 173,
+        "g": 54,
+        "b": 163
+    },
+    {
+        "filename": "magenta_stained_glass.png",
+        "r": 178,
+        "g": 76,
+        "b": 216
+    },
+    {
+        "filename": "magenta_terracotta.png",
+        "r": 149,
+        "g": 88,
+        "b": 108
+    },
+    {
+        "filename": "magenta_wool.png",
+        "r": 189,
+        "g": 68,
+        "b": 179
+    },
+    {
+        "filename": "magma.png",
+        "r": 142,
+        "g": 63,
+        "b": 31
+    },
+    {
+        "filename": "mangrove_door_bottom.png",
+        "r": 112,
+        "g": 47,
+        "b": 46
+    },
+    {
+        "filename": "mangrove_door_top.png",
+        "r": 112,
+        "g": 48,
+        "b": 46
+    },
+    {
+        "filename": "mangrove_log.png",
+        "r": 83,
+        "g": 66,
+        "b": 41
+    },
+    {
+        "filename": "mangrove_log_top.png",
+        "r": 102,
+        "g": 48,
+        "b": 42
+    },
+    {
+        "filename": "mangrove_planks.png",
+        "r": 117,
+        "g": 54,
+        "b": 48
+    },
+    {
+        "filename": "melon_side.png",
+        "r": 114,
+        "g": 146,
+        "b": 30
+    },
+    {
+        "filename": "melon_top.png",
+        "r": 111,
+        "g": 144,
+        "b": 30
+    },
+    {
+        "filename": "mossy_cobblestone.png",
+        "r": 110,
+        "g": 118,
+        "b": 94
+    },
+    {
+        "filename": "mossy_stone_bricks.png",
+        "r": 115,
+        "g": 121,
+        "b": 105
+    },
+    {
+        "filename": "moss_block.png",
+        "r": 89,
+        "g": 109,
+        "b": 45
+    },
+    {
+        "filename": "mud.png",
+        "r": 60,
+        "g": 57,
+        "b": 60
+    },
+    {
+        "filename": "muddy_mangrove_roots_side.png",
+        "r": 68,
+        "g": 58,
+        "b": 48
+    },
+    {
+        "filename": "muddy_mangrove_roots_top.png",
+        "r": 70,
+        "g": 58,
+        "b": 45
+    },
+    {
+        "filename": "mushroom_block_inside.png",
+        "r": 201,
+        "g": 170,
+        "b": 120
+    },
+    {
+        "filename": "mushroom_stem.png",
+        "r": 203,
+        "g": 196,
+        "b": 185
+    },
+    {
+        "filename": "mycelium_side.png",
+        "r": 113,
+        "g": 87,
+        "b": 71
+    },
+    {
+        "filename": "netherite_block.png",
+        "r": 66,
+        "g": 61,
+        "b": 63
+    },
+    {
+        "filename": "netherrack.png",
+        "r": 97,
+        "g": 38,
+        "b": 38
+    },
+    {
+        "filename": "nether_gold_ore.png",
+        "r": 115,
+        "g": 54,
+        "b": 42
+    },
+    {
+        "filename": "nether_portal.png",
+        "r": 87,
+        "g": 10,
+        "b": 191
+    },
+    {
+        "filename": "nether_quartz_ore.png",
+        "r": 117,
+        "g": 65,
+        "b": 62
+    },
+    {
+        "filename": "nether_wart_block.png",
+        "r": 114,
+        "g": 2,
+        "b": 2
+    },
+    {
+        "filename": "note_block.png",
+        "r": 88,
+        "g": 58,
+        "b": 40
+    },
+    {
+        "filename": "oak_door_bottom.png",
+        "r": 138,
+        "g": 108,
+        "b": 62
+    },
+    {
+        "filename": "oak_log.png",
+        "r": 109,
+        "g": 85,
+        "b": 50
+    },
+    {
+        "filename": "oak_log_top.png",
+        "r": 151,
+        "g": 121,
+        "b": 73
+    },
+    {
+        "filename": "oak_planks.png",
+        "r": 162,
+        "g": 130,
+        "b": 78
+    },
+    {
+        "filename": "observer_back.png",
+        "r": 71,
+        "g": 69,
+        "b": 69
+    },
+    {
+        "filename": "observer_back_on.png",
+        "r": 76,
+        "g": 68,
+        "b": 68
+    },
+    {
+        "filename": "observer_front.png",
+        "r": 103,
+        "g": 103,
+        "b": 103
+    },
+    {
+        "filename": "observer_side.png",
+        "r": 70,
+        "g": 68,
+        "b": 68
+    },
+    {
+        "filename": "observer_top.png",
+        "r": 98,
+        "g": 98,
+        "b": 98
+    },
+    {
+        "filename": "obsidian.png",
+        "r": 15,
+        "g": 10,
+        "b": 24
+    },
+    {
+        "filename": "ochre_froglight_side.png",
+        "r": 245,
+        "g": 233,
+        "b": 181
+    },
+    {
+        "filename": "ochre_froglight_top.png",
+        "r": 250,
+        "g": 245,
+        "b": 206
+    },
+    {
+        "filename": "orange_concrete.png",
+        "r": 224,
+        "g": 97,
+        "b": 0
+    },
+    {
+        "filename": "orange_concrete_powder.png",
+        "r": 227,
+        "g": 131,
+        "b": 31
+    },
+    {
+        "filename": "orange_glazed_terracotta.png",
+        "r": 154,
+        "g": 147,
+        "b": 91
+    },
+    {
+        "filename": "orange_shulker_box.png",
+        "r": 234,
+        "g": 106,
+        "b": 8
+    },
+    {
+        "filename": "orange_stained_glass.png",
+        "r": 216,
+        "g": 127,
+        "b": 51
+    },
+    {
+        "filename": "orange_terracotta.png",
+        "r": 161,
+        "g": 83,
+        "b": 37
+    },
+    {
+        "filename": "orange_wool.png",
+        "r": 240,
+        "g": 118,
+        "b": 19
+    },
+    {
+        "filename": "oxidized_copper.png",
+        "r": 82,
+        "g": 162,
+        "b": 132
+    },
+    {
+        "filename": "oxidized_cut_copper.png",
+        "r": 79,
+        "g": 153,
+        "b": 126
+    },
+    {
+        "filename": "packed_ice.png",
+        "r": 141,
+        "g": 180,
+        "b": 250
+    },
+    {
+        "filename": "packed_mud.png",
+        "r": 142,
+        "g": 106,
+        "b": 79
+    },
+    {
+        "filename": "pearlescent_froglight_side.png",
+        "r": 235,
+        "g": 224,
+        "b": 228
+    },
+    {
+        "filename": "pearlescent_froglight_top.png",
+        "r": 245,
+        "g": 240,
+        "b": 239
+    },
+    {
+        "filename": "pink_concrete.png",
+        "r": 213,
+        "g": 101,
+        "b": 142
+    },
+    {
+        "filename": "pink_concrete_powder.png",
+        "r": 228,
+        "g": 153,
+        "b": 181
+    },
+    {
+        "filename": "pink_glazed_terracotta.png",
+        "r": 235,
+        "g": 154,
+        "b": 181
+    },
+    {
+        "filename": "pink_shulker_box.png",
+        "r": 230,
+        "g": 121,
+        "b": 157
+    },
+    {
+        "filename": "pink_stained_glass.png",
+        "r": 242,
+        "g": 127,
+        "b": 165
+    },
+    {
+        "filename": "pink_terracotta.png",
+        "r": 161,
+        "g": 78,
+        "b": 78
+    },
+    {
+        "filename": "pink_wool.png",
+        "r": 237,
+        "g": 141,
+        "b": 172
+    },
+    {
+        "filename": "piston_bottom.png",
+        "r": 97,
+        "g": 96,
+        "b": 96
+    },
+    {
+        "filename": "piston_inner.png",
+        "r": 97,
+        "g": 97,
+        "b": 97
+    },
+    {
+        "filename": "piston_side.png",
+        "r": 109,
+        "g": 104,
+        "b": 96
+    },
+    {
+        "filename": "piston_top.png",
+        "r": 153,
+        "g": 127,
+        "b": 85
+    },
+    {
+        "filename": "piston_top_sticky.png",
+        "r": 122,
+        "g": 149,
+        "b": 91
+    },
+    {
+        "filename": "podzol_side.png",
+        "r": 122,
+        "g": 87,
+        "b": 57
+    },
+    {
+        "filename": "podzol_top.png",
+        "r": 91,
+        "g": 63,
+        "b": 24
+    },
+    {
+        "filename": "polished_andesite.png",
+        "r": 132,
+        "g": 134,
+        "b": 133
+    },
+    {
+        "filename": "polished_basalt_side.png",
+        "r": 88,
+        "g": 88,
+        "b": 91
+    },
+    {
+        "filename": "polished_basalt_top.png",
+        "r": 99,
+        "g": 98,
+        "b": 100
+    },
+    {
+        "filename": "polished_blackstone.png",
+        "r": 53,
+        "g": 48,
+        "b": 56
+    },
+    {
+        "filename": "polished_blackstone_bricks.png",
+        "r": 48,
+        "g": 42,
+        "b": 49
+    },
+    {
+        "filename": "polished_deepslate.png",
+        "r": 72,
+        "g": 72,
+        "b": 73
+    },
+    {
+        "filename": "polished_diorite.png",
+        "r": 192,
+        "g": 193,
+        "b": 194
+    },
+    {
+        "filename": "polished_granite.png",
+        "r": 154,
+        "g": 106,
+        "b": 89
+    },
+    {
+        "filename": "powder_snow.png",
+        "r": 248,
+        "g": 253,
+        "b": 253
+    },
+    {
+        "filename": "prismarine.png",
+        "r": 99,
+        "g": 156,
+        "b": 151
+    },
+    {
+        "filename": "prismarine_bricks.png",
+        "r": 99,
+        "g": 171,
+        "b": 158
+    },
+    {
+        "filename": "pumpkin_side.png",
+        "r": 195,
+        "g": 114,
+        "b": 24
+    },
+    {
+        "filename": "pumpkin_top.png",
+        "r": 198,
+        "g": 118,
+        "b": 24
+    },
+    {
+        "filename": "purple_concrete.png",
+        "r": 100,
+        "g": 31,
+        "b": 156
+    },
+    {
+        "filename": "purple_concrete_powder.png",
+        "r": 131,
+        "g": 55,
+        "b": 177
+    },
+    {
+        "filename": "purple_glazed_terracotta.png",
+        "r": 109,
+        "g": 47,
+        "b": 152
+    },
+    {
+        "filename": "purple_shulker_box.png",
+        "r": 103,
+        "g": 32,
+        "b": 156
+    },
+    {
+        "filename": "purple_stained_glass.png",
+        "r": 127,
+        "g": 63,
+        "b": 178
+    },
+    {
+        "filename": "purple_terracotta.png",
+        "r": 118,
+        "g": 70,
+        "b": 86
+    },
+    {
+        "filename": "purple_wool.png",
+        "r": 121,
+        "g": 42,
+        "b": 172
+    },
+    {
+        "filename": "purpur_block.png",
+        "r": 169,
+        "g": 125,
+        "b": 169
+    },
+    {
+        "filename": "purpur_pillar.png",
+        "r": 171,
+        "g": 129,
+        "b": 171
+    },
+    {
+        "filename": "quartz_block_bottom.png",
+        "r": 236,
+        "g": 230,
+        "b": 223
+    },
+    {
+        "filename": "quartz_block_side.png",
+        "r": 235,
+        "g": 229,
+        "b": 222
+    },
+    {
+        "filename": "quartz_block_top.png",
+        "r": 235,
+        "g": 229,
+        "b": 222
+    },
+    {
+        "filename": "quartz_bricks.png",
+        "r": 234,
+        "g": 229,
+        "b": 221
+    },
+    {
+        "filename": "quartz_pillar.png",
+        "r": 235,
+        "g": 230,
+        "b": 224
+    },
+    {
+        "filename": "quartz_pillar_top.png",
+        "r": 235,
+        "g": 229,
+        "b": 222
+    },
+    {
+        "filename": "raw_copper_block.png",
+        "r": 154,
+        "g": 105,
+        "b": 79
+    },
+    {
+        "filename": "raw_gold_block.png",
+        "r": 221,
+        "g": 169,
+        "b": 46
+    },
+    {
+        "filename": "raw_iron_block.png",
+        "r": 166,
+        "g": 135,
+        "b": 107
+    },
+    {
+        "filename": "redstone_lamp.png",
+        "r": 95,
+        "g": 54,
+        "b": 30
+    },
+    {
+        "filename": "redstone_lamp_on.png",
+        "r": 142,
+        "g": 101,
+        "b": 60
+    },
+    {
+        "filename": "redstone_ore.png",
+        "r": 140,
+        "g": 109,
+        "b": 109
+    },
+    {
+        "filename": "red_concrete.png",
+        "r": 142,
+        "g": 32,
+        "b": 32
+    },
+    {
+        "filename": "red_concrete_powder.png",
+        "r": 168,
+        "g": 54,
+        "b": 50
+    },
+    {
+        "filename": "red_glazed_terracotta.png",
+        "r": 181,
+        "g": 59,
+        "b": 53
+    },
+    {
+        "filename": "red_mushroom_block.png",
+        "r": 200,
+        "g": 46,
+        "b": 45
+    },
+    {
+        "filename": "red_nether_bricks.png",
+        "r": 69,
+        "g": 7,
+        "b": 9
+    },
+    {
+        "filename": "red_sand.png",
+        "r": 190,
+        "g": 102,
+        "b": 33
+    },
+    {
+        "filename": "red_sandstone.png",
+        "r": 186,
+        "g": 99,
+        "b": 29
+    },
+    {
+        "filename": "red_sandstone_bottom.png",
+        "r": 185,
+        "g": 98,
+        "b": 28
+    },
+    {
+        "filename": "red_sandstone_top.png",
+        "r": 181,
+        "g": 97,
+        "b": 31
+    },
+    {
+        "filename": "red_shulker_box.png",
+        "r": 140,
+        "g": 31,
+        "b": 30
+    },
+    {
+        "filename": "red_terracotta.png",
+        "r": 143,
+        "g": 61,
+        "b": 46
+    },
+    {
+        "filename": "red_wool.png",
+        "r": 160,
+        "g": 39,
+        "b": 34
+    },
+    {
+        "filename": "reinforced_deepslate_bottom.png",
+        "r": 79,
+        "g": 82,
+        "b": 79
+    },
+    {
+        "filename": "reinforced_deepslate_side.png",
+        "r": 102,
+        "g": 109,
+        "b": 100
+    },
+    {
+        "filename": "reinforced_deepslate_top.png",
+        "r": 80,
+        "g": 82,
+        "b": 78
+    },
+    {
+        "filename": "repeater.png",
+        "r": 160,
+        "g": 157,
+        "b": 156
+    },
+    {
+        "filename": "repeater_on.png",
+        "r": 169,
+        "g": 157,
+        "b": 156
+    },
+    {
+        "filename": "repeating_command_block_back.png",
+        "r": 128,
+        "g": 109,
+        "b": 166
+    },
+    {
+        "filename": "repeating_command_block_conditional.png",
+        "r": 127,
+        "g": 109,
+        "b": 171
+    },
+    {
+        "filename": "repeating_command_block_front.png",
+        "r": 129,
+        "g": 111,
+        "b": 176
+    },
+    {
+        "filename": "repeating_command_block_side.png",
+        "r": 128,
+        "g": 110,
+        "b": 170
+    },
+    {
+        "filename": "respawn_anchor_bottom.png",
+        "r": 32,
+        "g": 10,
+        "b": 60
+    },
+    {
+        "filename": "respawn_anchor_side0.png",
+        "r": 39,
+        "g": 23,
+        "b": 62
+    },
+    {
+        "filename": "respawn_anchor_side1.png",
+        "r": 42,
+        "g": 26,
+        "b": 64
+    },
+    {
+        "filename": "respawn_anchor_side2.png",
+        "r": 44,
+        "g": 28,
+        "b": 65
+    },
+    {
+        "filename": "respawn_anchor_side3.png",
+        "r": 47,
+        "g": 30,
+        "b": 66
+    },
+    {
+        "filename": "respawn_anchor_side4.png",
+        "r": 49,
+        "g": 32,
+        "b": 68
+    },
+    {
+        "filename": "respawn_anchor_top.png",
+        "r": 76,
+        "g": 23,
+        "b": 150
+    },
+    {
+        "filename": "respawn_anchor_top_off.png",
+        "r": 33,
+        "g": 21,
+        "b": 52
+    },
+    {
+        "filename": "rooted_dirt.png",
+        "r": 144,
+        "g": 103,
+        "b": 76
+    },
+    {
+        "filename": "sand.png",
+        "r": 219,
+        "g": 207,
+        "b": 163
+    },
+    {
+        "filename": "sandstone.png",
+        "r": 216,
+        "g": 203,
+        "b": 155
+    },
+    {
+        "filename": "sandstone_bottom.png",
+        "r": 215,
+        "g": 202,
+        "b": 154
+    },
+    {
+        "filename": "sandstone_top.png",
+        "r": 223,
+        "g": 214,
+        "b": 170
+    },
+    {
+        "filename": "sculk.png",
+        "r": 12,
+        "g": 29,
+        "b": 36
+    },
+    {
+        "filename": "sculk_catalyst_bottom.png",
+        "r": 89,
+        "g": 109,
+        "b": 109
+    },
+    {
+        "filename": "sculk_catalyst_side.png",
+        "r": 76,
+        "g": 93,
+        "b": 90
+    },
+    {
+        "filename": "sculk_catalyst_side_bloom.png",
+        "r": 76,
+        "g": 97,
+        "b": 93
+    },
+    {
+        "filename": "sculk_catalyst_top.png",
+        "r": 15,
+        "g": 31,
+        "b": 38
+    },
+    {
+        "filename": "sculk_catalyst_top_bloom.png",
+        "r": 16,
+        "g": 45,
+        "b": 50
+    },
+    {
+        "filename": "sculk_sensor_bottom.png",
+        "r": 13,
+        "g": 27,
+        "b": 33
+    },
+    {
+        "filename": "sculk_sensor_top.png",
+        "r": 7,
+        "g": 70,
+        "b": 84
+    },
+    {
+        "filename": "sculk_shrieker_bottom.png",
+        "r": 13,
+        "g": 27,
+        "b": 33
+    },
+    {
+        "filename": "sculk_shrieker_can_summon_inner_top.png",
+        "r": 30,
+        "g": 64,
+        "b": 66
+    },
+    {
+        "filename": "sculk_shrieker_inner_top.png",
+        "r": 30,
+        "g": 54,
+        "b": 55
+    },
+    {
+        "filename": "sea_lantern.png",
+        "r": 172,
+        "g": 199,
+        "b": 190
+    },
+    {
+        "filename": "shroomlight.png",
+        "r": 240,
+        "g": 146,
+        "b": 70
+    },
+    {
+        "filename": "smithing_table_bottom.png",
+        "r": 64,
+        "g": 28,
+        "b": 23
+    },
+    {
+        "filename": "smithing_table_front.png",
+        "r": 56,
+        "g": 37,
+        "b": 38
+    },
+    {
+        "filename": "smithing_table_side.png",
+        "r": 55,
+        "g": 35,
+        "b": 35
+    },
+    {
+        "filename": "smithing_table_top.png",
+        "r": 57,
+        "g": 58,
+        "b": 70
+    },
+    {
+        "filename": "smoker_bottom.png",
+        "r": 107,
+        "g": 105,
+        "b": 103
+    },
+    {
+        "filename": "smoker_front.png",
+        "r": 87,
+        "g": 75,
+        "b": 57
+    },
+    {
+        "filename": "smoker_front_on.png",
+        "r": 118,
+        "g": 97,
+        "b": 66
+    },
+    {
+        "filename": "smoker_side.png",
+        "r": 102,
+        "g": 91,
+        "b": 75
+    },
+    {
+        "filename": "smoker_top.png",
+        "r": 85,
+        "g": 83,
+        "b": 81
+    },
+    {
+        "filename": "smooth_basalt.png",
+        "r": 72,
+        "g": 72,
+        "b": 78
+    },
+    {
+        "filename": "smooth_stone.png",
+        "r": 158,
+        "g": 158,
+        "b": 158
+    },
+    {
+        "filename": "smooth_stone_slab_side.png",
+        "r": 167,
+        "g": 167,
+        "b": 167
+    },
+    {
+        "filename": "snow.png",
+        "r": 249,
+        "g": 254,
+        "b": 254
+    },
+    {
+        "filename": "soul_campfire_log_lit.png",
+        "r": 69,
+        "g": 106,
+        "b": 104
+    },
+    {
+        "filename": "soul_sand.png",
+        "r": 81,
+        "g": 62,
+        "b": 50
+    },
+    {
+        "filename": "soul_soil.png",
+        "r": 75,
+        "g": 57,
+        "b": 46
+    },
+    {
+        "filename": "sponge.png",
+        "r": 195,
+        "g": 192,
+        "b": 74
+    },
+    {
+        "filename": "spruce_door_bottom.png",
+        "r": 105,
+        "g": 80,
+        "b": 48
+    },
+    {
+        "filename": "spruce_door_top.png",
+        "r": 106,
+        "g": 80,
+        "b": 48
+    },
+    {
+        "filename": "spruce_log.png",
+        "r": 58,
+        "g": 37,
+        "b": 16
+    },
+    {
+        "filename": "spruce_log_top.png",
+        "r": 108,
+        "g": 80,
+        "b": 46
+    },
+    {
+        "filename": "spruce_planks.png",
+        "r": 114,
+        "g": 84,
+        "b": 48
+    },
+    {
+        "filename": "spruce_trapdoor.png",
+        "r": 103,
+        "g": 79,
+        "b": 47
+    },
+    {
+        "filename": "stone.png",
+        "r": 125,
+        "g": 125,
+        "b": 125
+    },
+    {
+        "filename": "stonecutter_bottom.png",
+        "r": 118,
+        "g": 117,
+        "b": 118
+    },
+    {
+        "filename": "stonecutter_top.png",
+        "r": 123,
+        "g": 118,
+        "b": 111
+    },
+    {
+        "filename": "stone_bricks.png",
+        "r": 122,
+        "g": 121,
+        "b": 122
+    },
+    {
+        "filename": "stripped_acacia_log.png",
+        "r": 174,
+        "g": 92,
+        "b": 59
+    },
+    {
+        "filename": "stripped_acacia_log_top.png",
+        "r": 166,
+        "g": 91,
+        "b": 51
+    },
+    {
+        "filename": "stripped_bamboo_block.png",
+        "r": 193,
+        "g": 173,
+        "b": 80
+    },
+    {
+        "filename": "stripped_bamboo_block_top.png",
+        "r": 178,
+        "g": 158,
+        "b": 72
+    },
+    {
+        "filename": "stripped_birch_log.png",
+        "r": 196,
+        "g": 176,
+        "b": 118
+    },
+    {
+        "filename": "stripped_birch_log_top.png",
+        "r": 191,
+        "g": 171,
+        "b": 116
+    },
+    {
+        "filename": "stripped_cherry_log.png",
+        "r": 215,
+        "g": 145,
+        "b": 148
+    },
+    {
+        "filename": "stripped_cherry_log_top.png",
+        "r": 221,
+        "g": 164,
+        "b": 157
+    },
+    {
+        "filename": "stripped_crimson_stem.png",
+        "r": 137,
+        "g": 57,
+        "b": 90
+    },
+    {
+        "filename": "stripped_dark_oak_log.png",
+        "r": 72,
+        "g": 56,
+        "b": 36
+    },
+    {
+        "filename": "stripped_dark_oak_log_top.png",
+        "r": 65,
+        "g": 44,
+        "b": 22
+    },
+    {
+        "filename": "stripped_jungle_log.png",
+        "r": 171,
+        "g": 132,
+        "b": 84
+    },
+    {
+        "filename": "stripped_jungle_log_top.png",
+        "r": 165,
+        "g": 122,
+        "b": 81
+    },
+    {
+        "filename": "stripped_mangrove_log.png",
+        "r": 119,
+        "g": 54,
+        "b": 47
+    },
+    {
+        "filename": "stripped_mangrove_log_top.png",
+        "r": 109,
+        "g": 43,
+        "b": 43
+    },
+    {
+        "filename": "stripped_oak_log.png",
+        "r": 177,
+        "g": 144,
+        "b": 86
+    },
+    {
+        "filename": "stripped_oak_log_top.png",
+        "r": 160,
+        "g": 129,
+        "b": 77
+    },
+    {
+        "filename": "stripped_spruce_log.png",
+        "r": 115,
+        "g": 89,
+        "b": 52
+    },
+    {
+        "filename": "stripped_spruce_log_top.png",
+        "r": 105,
+        "g": 80,
+        "b": 46
+    },
+    {
+        "filename": "stripped_warped_stem.png",
+        "r": 57,
+        "g": 150,
+        "b": 147
+    },
+    {
+        "filename": "structure_block.png",
+        "r": 88,
+        "g": 74,
+        "b": 90
+    },
+    {
+        "filename": "structure_block_corner.png",
+        "r": 68,
+        "g": 57,
+        "b": 69
+    },
+    {
+        "filename": "structure_block_data.png",
+        "r": 79,
+        "g": 65,
+        "b": 80
+    },
+    {
+        "filename": "structure_block_load.png",
+        "r": 69,
+        "g": 57,
+        "b": 70
+    },
+    {
+        "filename": "structure_block_save.png",
+        "r": 86,
+        "g": 71,
+        "b": 87
+    },
+    {
+        "filename": "suspicious_gravel_0.png",
+        "r": 129,
+        "g": 125,
+        "b": 124
+    },
+    {
+        "filename": "suspicious_gravel_1.png",
+        "r": 128,
+        "g": 123,
+        "b": 122
+    },
+    {
+        "filename": "suspicious_gravel_2.png",
+        "r": 126,
+        "g": 120,
+        "b": 120
+    },
+    {
+        "filename": "suspicious_gravel_3.png",
+        "r": 124,
+        "g": 119,
+        "b": 118
+    },
+    {
+        "filename": "suspicious_sand_0.png",
+        "r": 217,
+        "g": 204,
+        "b": 159
+    },
+    {
+        "filename": "suspicious_sand_1.png",
+        "r": 216,
+        "g": 202,
+        "b": 156
+    },
+    {
+        "filename": "suspicious_sand_2.png",
+        "r": 214,
+        "g": 198,
+        "b": 151
+    },
+    {
+        "filename": "suspicious_sand_3.png",
+        "r": 210,
+        "g": 193,
+        "b": 145
+    },
+    {
+        "filename": "target_side.png",
+        "r": 229,
+        "g": 176,
+        "b": 168
+    },
+    {
+        "filename": "target_top.png",
+        "r": 226,
+        "g": 170,
+        "b": 157
+    },
+    {
+        "filename": "terracotta.png",
+        "r": 152,
+        "g": 94,
+        "b": 67
+    },
+    {
+        "filename": "tinted_glass.png",
+        "r": 43,
+        "g": 38,
+        "b": 45
+    },
+    {
+        "filename": "tnt_bottom.png",
+        "r": 166,
+        "g": 66,
+        "b": 53
+    },
+    {
+        "filename": "tnt_side.png",
+        "r": 182,
+        "g": 88,
+        "b": 84
+    },
+    {
+        "filename": "tnt_top.png",
+        "r": 142,
+        "g": 62,
+        "b": 53
+    },
+    {
+        "filename": "tube_coral_block.png",
+        "r": 49,
+        "g": 87,
+        "b": 206
+    },
+    {
+        "filename": "tuff.png",
+        "r": 108,
+        "g": 109,
+        "b": 102
+    },
+    {
+        "filename": "verdant_froglight_side.png",
+        "r": 211,
+        "g": 234,
+        "b": 208
+    },
+    {
+        "filename": "verdant_froglight_top.png",
+        "r": 229,
+        "g": 244,
+        "b": 228
+    },
+    {
+        "filename": "warped_door_bottom.png",
+        "r": 43,
+        "g": 118,
+        "b": 112
+    },
+    {
+        "filename": "warped_door_top.png",
+        "r": 44,
+        "g": 126,
+        "b": 120
+    },
+    {
+        "filename": "warped_nylium.png",
+        "r": 43,
+        "g": 114,
+        "b": 101
+    },
+    {
+        "filename": "warped_nylium_side.png",
+        "r": 72,
+        "g": 61,
+        "b": 59
+    },
+    {
+        "filename": "warped_planks.png",
+        "r": 43,
+        "g": 104,
+        "b": 99
+    },
+    {
+        "filename": "warped_stem.png",
+        "r": 58,
+        "g": 58,
+        "b": 77
+    },
+    {
+        "filename": "warped_stem_top.png",
+        "r": 53,
+        "g": 109,
+        "b": 110
+    },
+    {
+        "filename": "warped_wart_block.png",
+        "r": 22,
+        "g": 119,
+        "b": 121
+    },
+    {
+        "filename": "water_flow.png",
+        "r": 168,
+        "g": 168,
+        "b": 168
+    },
+    {
+        "filename": "water_still.png",
+        "r": 177,
+        "g": 177,
+        "b": 177
+    },
+    {
+        "filename": "weathered_copper.png",
+        "r": 108,
+        "g": 153,
+        "b": 110
+    },
+    {
+        "filename": "weathered_cut_copper.png",
+        "r": 109,
+        "g": 145,
+        "b": 107
+    },
+    {
+        "filename": "wet_sponge.png",
+        "r": 171,
+        "g": 181,
+        "b": 70
+    },
+    {
+        "filename": "white_concrete.png",
+        "r": 207,
+        "g": 213,
+        "b": 214
+    },
+    {
+        "filename": "white_concrete_powder.png",
+        "r": 225,
+        "g": 227,
+        "b": 227
+    },
+    {
+        "filename": "white_glazed_terracotta.png",
+        "r": 188,
+        "g": 212,
+        "b": 202
+    },
+    {
+        "filename": "white_shulker_box.png",
+        "r": 215,
+        "g": 220,
+        "b": 221
+    },
+    {
+        "filename": "white_stained_glass.png",
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    {
+        "filename": "white_terracotta.png",
+        "r": 209,
+        "g": 178,
+        "b": 161
+    },
+    {
+        "filename": "white_wool.png",
+        "r": 233,
+        "g": 236,
+        "b": 236
+    },
+    {
+        "filename": "yellow_concrete.png",
+        "r": 240,
+        "g": 175,
+        "b": 21
+    },
+    {
+        "filename": "yellow_concrete_powder.png",
+        "r": 232,
+        "g": 199,
+        "b": 54
+    },
+    {
+        "filename": "yellow_glazed_terracotta.png",
+        "r": 234,
+        "g": 192,
+        "b": 88
+    },
+    {
+        "filename": "yellow_shulker_box.png",
+        "r": 248,
+        "g": 188,
+        "b": 29
+    },
+    {
+        "filename": "yellow_stained_glass.png",
+        "r": 229,
+        "g": 229,
+        "b": 51
+    },
+    {
+        "filename": "yellow_terracotta.png",
+        "r": 186,
+        "g": 133,
+        "b": 35
+    },
+    {
+        "filename": "yellow_wool.png",
+        "r": 248,
+        "g": 197,
+        "b": 39
+    }
+]
