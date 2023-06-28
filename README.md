@@ -1,11 +1,11 @@
+![Duck](https://raw.githubusercontent.com/GiorDior/Image-To-Minecraft-Blocks/main/example_composite_images/duck.png)
+![Porsche](https://raw.githubusercontent.com/GiorDior/Image-To-Minecraft-Blocks/main/example_composite_images/porsche.png)
+
 # Image To Minecraft Blocks
 
 This is a simple Python program that converts an image into a composite image based on minecraft blocks.
 I thank all people that use this for their project. I love to contribute to the community. However, please credit me by using the GitHub project link.
 
-## Examples
-![Duck](https://raw.githubusercontent.com/GiorDior/Image-To-Minecraft-Blocks/main/example_composite_images/duck.png)
-![Porsche](https://raw.githubusercontent.com/GiorDior/Image-To-Minecraft-Blocks/main/example_composite_images/porsche.png)
 ## Usage
 
 To use this, you need Python 3.6+ and all of the required packages installed.
