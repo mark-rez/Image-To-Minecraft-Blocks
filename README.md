@@ -1,5 +1,4 @@
-![Duck](https://raw.githubusercontent.com/GiorDior/Image-To-Minecraft-Blocks/main/example_composite_images/duck.png)
-![Porsche](https://raw.githubusercontent.com/GiorDior/Image-To-Minecraft-Blocks/main/example_composite_images/porsche.png)
+![Comparison](https://github.com/GiorDior/Image-To-Minecraft-Blocks/blob/main/examples/example.png?raw=true)
 
 # Image To Minecraft Blocks
 
