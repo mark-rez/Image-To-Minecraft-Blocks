@@ -300,12 +300,6 @@
         "b": 107
     },
     {
-        "filename": "blast_furnace_front_on.png",
-        "r": 115,
-        "g": 110,
-        "b": 105
-    },
-    {
         "filename": "blast_furnace_side.png",
         "r": 107,
         "g": 107,
@@ -510,22 +504,10 @@
         "b": 74
     },
     {
-        "filename": "chain_command_block_back.png",
-        "r": 130,
-        "g": 157,
-        "b": 145
-    },
-    {
         "filename": "chain_command_block_conditional.png",
         "r": 129,
         "g": 161,
         "b": 147
-    },
-    {
-        "filename": "chain_command_block_front.png",
-        "r": 132,
-        "g": 165,
-        "b": 150
     },
     {
         "filename": "chain_command_block_side.png",
@@ -678,22 +660,10 @@
         "b": 127
     },
     {
-        "filename": "command_block_back.png",
-        "r": 173,
-        "g": 131,
-        "b": 106
-    },
-    {
         "filename": "command_block_conditional.png",
         "r": 178,
         "g": 133,
         "b": 105
-    },
-    {
-        "filename": "command_block_front.png",
-        "r": 181,
-        "g": 136,
-        "b": 108
     },
     {
         "filename": "command_block_side.png",
@@ -814,12 +784,6 @@
         "r": 101,
         "g": 48,
         "b": 70
-    },
-    {
-        "filename": "crimson_stem.png",
-        "r": 92,
-        "g": 25,
-        "b": 29
     },
     {
         "filename": "crimson_stem_top.png",
@@ -982,12 +946,6 @@
         "r": 130,
         "g": 123,
         "b": 119
-    },
-    {
-        "filename": "debug.png",
-        "r": 133,
-        "g": 148,
-        "b": 152
     },
     {
         "filename": "debug2.png",
@@ -1584,22 +1542,10 @@
         "b": 52
     },
     {
-        "filename": "jigsaw_bottom.png",
-        "r": 34,
-        "g": 27,
-        "b": 37
-    },
-    {
         "filename": "jigsaw_lock.png",
         "r": 45,
         "g": 38,
         "b": 47
-    },
-    {
-        "filename": "jigsaw_side.png",
-        "r": 62,
-        "g": 53,
-        "b": 63
     },
     {
         "filename": "jigsaw_top.png",
@@ -1650,22 +1596,10 @@
         "b": 141
     },
     {
-        "filename": "lava_flow.png",
-        "r": 207,
-        "g": 91,
-        "b": 19
-    },
-    {
         "filename": "lava_still.png",
         "r": 212,
         "g": 90,
         "b": 18
-    },
-    {
-        "filename": "lectern_base.png",
-        "r": 162,
-        "g": 120,
-        "b": 74
     },
     {
         "filename": "lectern_front.png",
@@ -1674,22 +1608,10 @@
         "b": 55
     },
     {
-        "filename": "lectern_sides.png",
-        "r": 149,
-        "g": 117,
-        "b": 67
-    },
-    {
         "filename": "lectern_top.png",
         "r": 173,
         "g": 137,
         "b": 83
-    },
-    {
-        "filename": "lightning_rod_on.png",
-        "r": 255,
-        "g": 255,
-        "b": 255
     },
     {
         "filename": "light_blue_concrete.png",
@@ -1818,34 +1740,16 @@
         "b": 25
     },
     {
-        "filename": "lodestone_side.png",
-        "r": 119,
-        "g": 119,
-        "b": 123
-    },
-    {
         "filename": "lodestone_top.png",
         "r": 147,
         "g": 149,
         "b": 152
     },
     {
-        "filename": "loom_bottom.png",
-        "r": 76,
-        "g": 60,
-        "b": 36
-    },
-    {
         "filename": "loom_front.png",
         "r": 148,
         "g": 118,
         "b": 82
-    },
-    {
-        "filename": "loom_side.png",
-        "r": 145,
-        "g": 101,
-        "b": 72
     },
     {
         "filename": "loom_top.png",
@@ -1894,12 +1798,6 @@
         "r": 189,
         "g": 68,
         "b": 179
-    },
-    {
-        "filename": "magma.png",
-        "r": 142,
-        "g": 63,
-        "b": 31
     },
     {
         "filename": "mangrove_door_bottom.png",
@@ -2016,12 +1914,6 @@
         "b": 42
     },
     {
-        "filename": "nether_portal.png",
-        "r": 87,
-        "g": 10,
-        "b": 191
-    },
-    {
         "filename": "nether_quartz_ore.png",
         "r": 117,
         "g": 65,
@@ -2088,22 +1980,10 @@
         "b": 68
     },
     {
-        "filename": "observer_top.png",
-        "r": 98,
-        "g": 98,
-        "b": 98
-    },
-    {
         "filename": "obsidian.png",
         "r": 15,
         "g": 10,
         "b": 24
-    },
-    {
-        "filename": "ochre_froglight_side.png",
-        "r": 245,
-        "g": 233,
-        "b": 181
     },
     {
         "filename": "ochre_froglight_top.png",
@@ -2328,12 +2208,6 @@
         "b": 253
     },
     {
-        "filename": "prismarine.png",
-        "r": 99,
-        "g": 156,
-        "b": 151
-    },
-    {
         "filename": "prismarine_bricks.png",
         "r": 99,
         "g": 171,
@@ -2550,32 +2424,14 @@
         "b": 34
     },
     {
-        "filename": "reinforced_deepslate_bottom.png",
-        "r": 79,
-        "g": 82,
-        "b": 79
-    },
-    {
         "filename": "reinforced_deepslate_side.png",
         "r": 102,
         "g": 109,
         "b": 100
     },
     {
-        "filename": "reinforced_deepslate_top.png",
-        "r": 80,
-        "g": 82,
-        "b": 78
-    },
-    {
         "filename": "repeater.png",
         "r": 160,
-        "g": 157,
-        "b": 156
-    },
-    {
-        "filename": "repeater_on.png",
-        "r": 169,
         "g": 157,
         "b": 156
     },
@@ -2586,22 +2442,10 @@
         "b": 166
     },
     {
-        "filename": "repeating_command_block_conditional.png",
-        "r": 127,
-        "g": 109,
-        "b": 171
-    },
-    {
         "filename": "repeating_command_block_front.png",
         "r": 129,
         "g": 111,
         "b": 176
-    },
-    {
-        "filename": "repeating_command_block_side.png",
-        "r": 128,
-        "g": 110,
-        "b": 170
     },
     {
         "filename": "respawn_anchor_bottom.png",
@@ -2610,22 +2454,10 @@
         "b": 60
     },
     {
-        "filename": "respawn_anchor_side0.png",
-        "r": 39,
-        "g": 23,
-        "b": 62
-    },
-    {
         "filename": "respawn_anchor_side1.png",
         "r": 42,
         "g": 26,
         "b": 64
-    },
-    {
-        "filename": "respawn_anchor_side2.png",
-        "r": 44,
-        "g": 28,
-        "b": 65
     },
     {
         "filename": "respawn_anchor_side3.png",
@@ -2634,22 +2466,10 @@
         "b": 66
     },
     {
-        "filename": "respawn_anchor_side4.png",
-        "r": 49,
-        "g": 32,
-        "b": 68
-    },
-    {
         "filename": "respawn_anchor_top.png",
         "r": 76,
         "g": 23,
         "b": 150
-    },
-    {
-        "filename": "respawn_anchor_top_off.png",
-        "r": 33,
-        "g": 21,
-        "b": 52
     },
     {
         "filename": "rooted_dirt.png",
@@ -2682,12 +2502,6 @@
         "b": 170
     },
     {
-        "filename": "sculk.png",
-        "r": 12,
-        "g": 29,
-        "b": 36
-    },
-    {
         "filename": "sculk_catalyst_bottom.png",
         "r": 89,
         "g": 109,
@@ -2700,22 +2514,10 @@
         "b": 90
     },
     {
-        "filename": "sculk_catalyst_side_bloom.png",
-        "r": 76,
-        "g": 97,
-        "b": 93
-    },
-    {
         "filename": "sculk_catalyst_top.png",
         "r": 15,
         "g": 31,
         "b": 38
-    },
-    {
-        "filename": "sculk_catalyst_top_bloom.png",
-        "r": 16,
-        "g": 45,
-        "b": 50
     },
     {
         "filename": "sculk_sensor_bottom.png",
@@ -2736,22 +2538,10 @@
         "b": 33
     },
     {
-        "filename": "sculk_shrieker_can_summon_inner_top.png",
-        "r": 30,
-        "g": 64,
-        "b": 66
-    },
-    {
         "filename": "sculk_shrieker_inner_top.png",
         "r": 30,
         "g": 54,
         "b": 55
-    },
-    {
-        "filename": "sea_lantern.png",
-        "r": 172,
-        "g": 199,
-        "b": 190
     },
     {
         "filename": "shroomlight.png",
@@ -2796,12 +2586,6 @@
         "b": 57
     },
     {
-        "filename": "smoker_front_on.png",
-        "r": 118,
-        "g": 97,
-        "b": 66
-    },
-    {
         "filename": "smoker_side.png",
         "r": 102,
         "g": 91,
@@ -2836,12 +2620,6 @@
         "r": 249,
         "g": 254,
         "b": 254
-    },
-    {
-        "filename": "soul_campfire_log_lit.png",
-        "r": 69,
-        "g": 106,
-        "b": 104
     },
     {
         "filename": "soul_sand.png",
@@ -3042,34 +2820,16 @@
         "b": 147
     },
     {
-        "filename": "structure_block.png",
-        "r": 88,
-        "g": 74,
-        "b": 90
-    },
-    {
         "filename": "structure_block_corner.png",
         "r": 68,
         "g": 57,
         "b": 69
     },
     {
-        "filename": "structure_block_data.png",
-        "r": 79,
-        "g": 65,
-        "b": 80
-    },
-    {
         "filename": "structure_block_load.png",
         "r": 69,
         "g": 57,
         "b": 70
-    },
-    {
-        "filename": "structure_block_save.png",
-        "r": 86,
-        "g": 71,
-        "b": 87
     },
     {
         "filename": "suspicious_gravel_0.png",
@@ -3216,12 +2976,6 @@
         "b": 99
     },
     {
-        "filename": "warped_stem.png",
-        "r": 58,
-        "g": 58,
-        "b": 77
-    },
-    {
         "filename": "warped_stem_top.png",
         "r": 53,
         "g": 109,
@@ -3232,12 +2986,6 @@
         "r": 22,
         "g": 119,
         "b": 121
-    },
-    {
-        "filename": "water_flow.png",
-        "r": 168,
-        "g": 168,
-        "b": 168
     },
     {
         "filename": "water_still.png",
