@@ -18,7 +18,7 @@ To install the required packages, run:
 ### Create an image
 1. Run `py main.py -o ORIGINALFILEPATH -f NEWFILEPATH`
 
-I provided an [example script](https://github.com/GiorDior/TikTok-Voice-TTS/blob/main/examplescript.py) which shows how the tts function could be used in a script.
+I provided an [example script](https://github.com/GiorDior/Image-To-Minecraft-Blocks/blob/main/examplescript.py).
 
 ## Credits
 - [Pillow](https://github.com/python-pillow/Pillow) for providing the image library
