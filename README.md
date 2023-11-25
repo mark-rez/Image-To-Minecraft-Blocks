@@ -9,7 +9,7 @@ I thank all people that use this for their project. I love to contribute to the 
 
 To use this, you need Python 3.6+ and all of the required packages installed.
 To install the required packages, run: 
-<br>`pip3 install Pillow argparse` or `pip3 install requirements.txt`
+<br>`pip3 install Pillow argparse` or `pip3 install -r requirements.txt`
 
 ### Import script into your project
 1. Put `data.json`, `mcimgconverter.py` and the folder `block` into your project
